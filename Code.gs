@@ -29,9 +29,9 @@ Estos IDs deben ser actualizados en las constantes globales del archivo Code en 
  */
 
 // Id de la imagen para hombre almacenada en Drive
-const IMGMANID = 'XXXXX';   //<= Actualice el Id
+const IMGMANID = '1O3tifo6jN0btJLxQ8d4z53el0CVxpyc5';   //<= Actualice el Id
 // Id de la imagen para mujer almacenada en Drive
-const IMGWOMID = 'XXXXX';   //<= Actualice el Id
+const IMGWOMID = '1FVBNNmMKChp2zjr-6MFjtqVL82yWFiKk';   //<= Actualice el Id
 
 // Nombre de la hoja de datos
 const WSDATANAME = 'PARTICIPANTES';
